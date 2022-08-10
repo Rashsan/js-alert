@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    margin-top: 5rem;
+}
+#call{
+    margin-top: 2rem;
+    font-size: 1.2rem;
+}
+#alertKeys{
+    margin-top: 3rem;
+}
+.alert{
+    display: inline-block;
+    margin-left: 4rem;
+}
+.icon{
+    font-size: 5rem;
+    padding: 2rem;
+}
+footer{
+    margin-top: 5rem;
+}
